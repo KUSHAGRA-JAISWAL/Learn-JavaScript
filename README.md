@@ -4,15 +4,15 @@
 
 ## Fundamentals Part-1
 
-### Linking JavaScript Files
+### 1. Linking JavaScript Files
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
-|1. **[link_js.html:](Fundamentals_Part-1/linking_js_file/link_js.html)**| How to Link JavaScript file. |[linking_js](https://codepen.io/kushagra-jaiswal-the-bold/full/ZEZpdjr)|
+| **[link_js.html:](Fundamentals_Part-1/linking_js_file/link_js.html)**| How to Link JavaScript file. |[linking_js](https://codepen.io/kushagra-jaiswal-the-bold/full/ZEZpdjr)|
 | **[script.js:](Fundamentals_Part-1/linking_js_file/script.js)**| | |
 <br>
 
-### Values and Variables
+### 2. Values and Variables
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
@@ -24,7 +24,7 @@
 
 ## Fundamentals Part-1
 
-### Values and Variables
+### 1. Values and Variables
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
