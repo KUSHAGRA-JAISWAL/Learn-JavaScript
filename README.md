@@ -31,3 +31,4 @@
 |1. **[prac_values_variables.html:](Practice/Fundamentals_Part-1/values_variables/prac_values_variables.html)**| Declare variables called country, continent and population and assign their values according to your own country (population in millions). Log their values to the console. |[prac_values_variables](https://codepen.io/kushagra-jaiswal-the-bold/pen/YzMpjjM?editors=1111)|
 |2. **[script.js:](Practice/Fundamentals_Part-1/values_variables/script.js)**| Declare variables called country, continent and population and assign their values according to your own country (population in millions). Log their values to the console.| |
 <br>
+<br>
