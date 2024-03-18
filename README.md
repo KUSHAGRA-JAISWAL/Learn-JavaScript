@@ -20,6 +20,30 @@
 | **[script.js:](Fundamentals_Part-1/values_variables/script.js)**| | |
 <br>
 
+### 3. Data Types
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[data_types.html:](Fundamentals_Part-1/data_types/data_types.html)**| List of Data Types in JavaScript. |[data_types](https://codepen.io/kushagra-jaiswal-the-bold/pen/dyLNPLM)|
+| **[script.js:](Fundamentals_Part-1/data_types/script.js)**| | |
+<br>
+
+### 4. Let, Const and Var
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[let_const_var.html:](Fundamentals_Part-1/let_const_var/let_const_var.html)**| Concept of Let, Const and Var in JavaScript. |[let_const_var](https://codepen.io/kushagra-jaiswal-the-bold/pen/xxegGOw)|
+| **[script.js:](Fundamentals_Part-1/data_types/script.js)**| | |
+<br>
+
+### 5. Operators
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[operators.html:](Fundamentals_Part-1/operators/operators.html)**| List of Operators in JavaScript. |[operators](https://codepen.io/kushagra-jaiswal-the-bold/pen/NWmdqOJ)|
+| **[script.js:](Fundamentals_Part-1/operators/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
