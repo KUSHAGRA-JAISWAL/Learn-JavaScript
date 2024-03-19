@@ -44,6 +44,14 @@
 | **[script.js:](Fundamentals_Part-1/operators/script.js)**| | |
 <br>
 
+### 6. String and Template Literals
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[str_temp_literals.html:](Fundamentals_Part-1/string_template_literals/str_temp_literals.html)**| String and Template Literals in JavaScript. |[str_temp_literals](https://codepen.io/kushagra-jaiswal-the-bold/pen/KKYaBZV)|
+| **[script.js:](Fundamentals_Part-1/string_template_literals/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
@@ -52,7 +60,16 @@
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
-| **[prac_values_variables.html:](Practice/Fundamentals_Part-1/values_variables/prac_values_variables.html)**| Declare variables called country, continent and population and assign their values according to your own country (population in millions). Log their values to the console. |[prac_values_variables](https://codepen.io/kushagra-jaiswal-the-bold/pen/YzMpjjM?editors=1111)|
+| **[prac_values_variables.html:](Practice/Fundamentals_Part-1/values_variables/prac_values_variables.html)**| Declare variables called country, continent and population and assign their values according to your own country (population in millions). Log their values to the console. |[prac_values_variables](https://codepen.io/kushagra-jaiswal-the-bold/pen/YzMpjjM)|
 | **[script.js:](Practice/Fundamentals_Part-1/values_variables/script.js)**| | |
 <br>
 
+### 2. Challange BMI
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[claculate_bmi.html:](Practice/Fundamentals_Part-1/Challange_BMI/calculate_bmi.html)**| CHALLENGE #1
+Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the 
+formula: BMI = mass / (height * height) (mass in kg and height in meters). |[calculate_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/KKYaRmX)|
+| **[script.js:](Practice/Fundamentals_Part-1/Challange_BMI/script.js)**| | |
+<br>
