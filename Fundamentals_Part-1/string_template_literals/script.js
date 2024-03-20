@@ -22,7 +22,6 @@ const kush = "I'm " + firstName + ' ' + lastName + ', a ' + (currentYear - birth
 console.log(kush);
 
 // template literals
-
 const kushNew = `I'm ${firstName} ${lastName}, a ${currentYear - birthYear} years old ${job}!`; 
 // this is the new way of writing strings in JavaScript.
 
