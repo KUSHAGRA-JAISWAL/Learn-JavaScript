@@ -68,7 +68,6 @@
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
-| **[claculate_bmi.html:](Practice/Fundamentals_Part-1/Challange_BMI/calculate_bmi.html)**| CHALLENGE #1
-Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: BMI = mass / (height * height) (mass in kg and height in meters). |[calculate_bmi](https://codepen.iokushagra-jaiswal-the-bold/pen/KKYaRmX)|
+| **[claculate_bmi.html:](Practice/Fundamentals_Part-1/Challange_BMI/calculate_bmi.html)**| CHALLENGE #1 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: BMI = mass / (height * height) (mass in kg and height in meters). |[calculate_bmi](https://codepen.iokushagra-jaiswal-the-bold/pen/KKYaRmX)|
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_BMI/script.js)**| | |
 <br>
