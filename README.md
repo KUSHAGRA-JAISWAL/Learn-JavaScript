@@ -52,6 +52,22 @@
 | **[script.js:](Fundamentals_Part-1/string_template_literals/script.js)**| | |
 <br>
 
+### 7. if / else Statements
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[if_else.html:](Fundamentals_Part-1/if_else_statements/if_else.html)**| if / else Statements in JavaScript. |[if_else_statements](https://codepen.io/kushagra-jaiswal-the-bold/pen/abxJQJp)|
+| **[script.js:](Fundamentals_Part-1/if_else_statements/script.js)**| | |
+<br>
+
+### 8. Type Conversion and Coercion
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[type_conversion.html:](Fundamentals_Part-1/type_conversion/type_conversion.html)**| Type Conversion and Type Coercion in JavaScript. |[type_conversion](https://codepen.io/kushagra-jaiswal-the-bold/pen/ExJWGyQ)|
+| **[script.js:](Fundamentals_Part-1/type_conversion/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
@@ -71,3 +87,12 @@
 | **[claculate_bmi.html:](Practice/Fundamentals_Part-1/Challange_BMI/calculate_bmi.html)**| CHALLENGE #1 Mark and John are trying to compare their BMI (Body Mass Index), which is calculated using the formula: BMI = mass / (height * height) (mass in kg and height in meters). |[calculate_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/KKYaRmX)|
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_BMI/script.js)**| | |
 <br>
+
+### 3. Challange if-else
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[print_msg_bmi.html:](Practice/Fundamentals_Part-1/Challange_if-else/print_msg_bmi.html)**| CHALLENGE #2 Use the BMI example from Challenge #1, and the code you already wrote, and improve it: 1. Print a nice output to the console, telling the user who has the higher BMI. The message can be either: "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!". |[print_msg_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/rNbyQqj)|
+| **[script.js:](Practice/Fundamentals_Part-1/Challange_if-else/script.js)**| | |
+<br>
+
