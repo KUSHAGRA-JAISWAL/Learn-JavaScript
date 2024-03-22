@@ -68,6 +68,22 @@
 | **[script.js:](Fundamentals_Part-1/type_conversion/script.js)**| | |
 <br>
 
+### 9. Truthy and Falsy Values
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[truthy_falsy.html:](Fundamentals_Part-1/truthy_falsy_values/truthy_falsy.html)**| Truthy and Falsy Values in JavaScript. |[truthy_falsy](https://codepen.io/kushagra-jaiswal-the-bold/pen/QWPvGBx)|
+| **[script.js:](Fundamentals_Part-1/truthy_falsy_values/script.js)**| | |
+<br>
+
+### 10. Equality Operators: === vs. ==
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[equality_operator.html:](Fundamentals_Part-1/truthy_falsy_values/truthy_falsy.html)**| Equality Operator in JavaScript(=== vs ==). |[equality_operator](https://codepen.io/kushagra-jaiswal-the-bold/pen/GRLmrKO)|
+| **[script.js:](Fundamentals_Part-1/truthy_falsy_values/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
