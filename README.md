@@ -84,6 +84,14 @@
 | **[script.js:](Fundamentals_Part-1/truthy_falsy_values/script.js)**| | |
 <br>
 
+### 11. Boolean Logic and Logical Operators(AND, OR, NOT)
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[logical_operators.html:](Fundamentals_Part-1/logical_operators/logical_operators.html)**| Boolean Logic & Logical Operators (AND, OR, NOT) in JavaScript. |[logical_operators](https://codepen.io/kushagra-jaiswal-the-bold/pen/vYMmVYY)|
+| **[script.js:](Fundamentals_Part-1/logical_operators/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
@@ -96,7 +104,7 @@
 | **[script.js:](Practice/Fundamentals_Part-1/values_variables/script.js)**| | |
 <br>
 
-### 2. Challange BMI
+### 2. Challange#1 BMI
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
@@ -104,11 +112,19 @@
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_BMI/script.js)**| | |
 <br>
 
-### 3. Challange if-else
+### 3. Challange#2 if-else
 
 | Programs                                           |Discription                             |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
 | **[print_msg_bmi.html:](Practice/Fundamentals_Part-1/Challange_if-else/print_msg_bmi.html)**| CHALLENGE #2 Use the BMI example from Challenge #1, and the code you already wrote, and improve it: 1. Print a nice output to the console, telling the user who has the higher BMI. The message can be either: "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!". |[print_msg_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/rNbyQqj)|
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_if-else/script.js)**| | |
+<br>
+
+### 4. Challange#3 Who Win The Match
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[who_win.html:](Practice/Fundamentals_Part-1/challange_logical_operator/who_win.html)**| CHALLENGE #3 Calculate the average score for each team, using the test data included below. The average score for Dolphins should be assigned to the scoreDolphins variable, and the average  score of Koalas should be assigned to the scoreKoalas variable. |[who_win](https://codepen.io/kushagra-jaiswal-the-bold/pen/WNWjaxE)|
+| **[script.js:](Practice/Fundamentals_Part-1/challange_logical_operator/script.js)**| | |
 <br>
 
