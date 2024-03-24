@@ -119,6 +119,7 @@
 | **[print_msg_bmi.html:](Practice/Fundamentals_Part-1/Challange_if-else/print_msg_bmi.html)**| CHALLENGE #2 Use the BMI example from Challenge #1, and the code you already wrote, and improve it: 1. Print a nice output to the console, telling the user who has the higher BMI. The message can be either: "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!". |[print_msg_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/rNbyQqj)|
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_if-else/script.js)**| | |
 <br>
+<br>
 
 ### 4. Challange#3 Who Win The Match
 
@@ -126,5 +127,6 @@
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
 | **[who_win.html:](Practice/Fundamentals_Part-1/challange_logical_operator/who_win.html)**| CHALLENGE #3 Calculate the average score for each team, using the test data included below. The average score for Dolphins should be assigned to the scoreDolphins variable, and the average  score of Koalas should be assigned to the scoreKoalas variable. |[who_win](https://codepen.io/kushagra-jaiswal-the-bold/pen/WNWjaxE)|
 | **[script.js:](Practice/Fundamentals_Part-1/challange_logical_operator/script.js)**| | |
+<br>
 <br>
 
