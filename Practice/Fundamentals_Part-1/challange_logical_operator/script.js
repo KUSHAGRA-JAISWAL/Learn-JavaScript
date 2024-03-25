@@ -31,8 +31,9 @@ TEST DATA: Dolphins scored 96, 108, and 89. Koalas scored 88, 91, and 110.
 /* Write your code below. Good luck! 🙂 */
 const scoreDolphins = (96 + 108 + 89) / 3;
 const scoreKoalas = (88 + 91 + 110) / 3;
+console.log(scoreDolphins, scoreKoalas);
 
-if(scoreDolphins === scoreDolphins){
+if(scoreDolphins === scoreKoalas){
     console.log("Both win the trophy");
 }
 else if(scoreDolphins > scoreKoalas){

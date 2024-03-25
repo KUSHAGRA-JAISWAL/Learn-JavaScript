@@ -92,6 +92,22 @@
 | **[script.js:](Fundamentals_Part-1/logical_operators/script.js)**| | |
 <br>
 
+### 12. Switch Statements
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[switch_stmt.html:](Fundamentals_Part-1/switch_statement/switch_stmt.html)**| Switch Statement in JavaScript. |[switch_stmt](https://codepen.io/kushagra-jaiswal-the-bold/pen/bGJRRyZ)|
+| **[script.js:](Fundamentals_Part-1/switch_statement/script.js)**| | |
+<br>
+
+### 13. The Conditional (Ternary) Operator
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[ternary_operator.html:](Fundamentals_Part-1/ternary_operator/ternary_operator.html)**| The Conditional (Ternary) Operator in JavaScript. |[ternary_operator](https://codepen.io/kushagra-jaiswal-the-bold/pen/PogjKPX)|
+| **[script.js:](Fundamentals_Part-1/ternary_operator/script.js)**| | |
+<br>
+
 # Practice Section
 
 ## Fundamentals Part-1
@@ -119,7 +135,6 @@
 | **[print_msg_bmi.html:](Practice/Fundamentals_Part-1/Challange_if-else/print_msg_bmi.html)**| CHALLENGE #2 Use the BMI example from Challenge #1, and the code you already wrote, and improve it: 1. Print a nice output to the console, telling the user who has the higher BMI. The message can be either: "Mark's BMI is higher than John's!" or "John's BMI is higher than Mark's!". |[print_msg_bmi](https://codepen.io/kushagra-jaiswal-the-bold/pen/rNbyQqj)|
 | **[script.js:](Practice/Fundamentals_Part-1/Challange_if-else/script.js)**| | |
 <br>
-<br>
 
 ### 4. Challange#3 Who Win The Match
 
@@ -128,5 +143,12 @@
 | **[who_win.html:](Practice/Fundamentals_Part-1/challange_logical_operator/who_win.html)**| CHALLENGE #3 Calculate the average score for each team, using the test data included below. The average score for Dolphins should be assigned to the scoreDolphins variable, and the average  score of Koalas should be assigned to the scoreKoalas variable. |[who_win](https://codepen.io/kushagra-jaiswal-the-bold/pen/WNWjaxE)|
 | **[script.js:](Practice/Fundamentals_Part-1/challange_logical_operator/script.js)**| | |
 <br>
+
+### 5. Challange#4 Make a Tip Calculator
+
+| Programs                                           |Discription                             |Web's                                      |
+|:---------------------------------------------------|----------------------------------------|-----------------------------------------|
+| **[tip_calculator.html:](Practice/Fundamentals_Part-1/challange_ternary_operator/tip_calculator.html)**| CHALLENGE #4 Calculate the tip, depending on the bill value. Create a variable called tip for this. It's not allowed to use an if...else statement (if it's easier for you, you can start with an if...else statement, and then try to convert it to a ternary operator). |[tip_calculator](https://codepen.io/kushagra-jaiswal-the-bold/pen/KKYqvXz)|
+| **[script.js:](Practice/Fundamentals_Part-1/challange_ternary_operator/script.js)**| | |
 <br>
 
