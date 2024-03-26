@@ -4,8 +4,8 @@
 
 | Sno                                           |Section                            |visit                                    |
 |:---------------------------------------------------|----------------------------------------|-----------------------------------------|
-| **1**| Fundamentals Part - 1|[view](Fundamentals_Part-1/README.md)|
-| **2**| Fundamentals Part - 2|[view](Fundamentals_Part-2/README.md)|
+| **1**| Fundamentals Part - 1|[view](/Fundamentals_Part-1/README.md)|
+| **2**| Fundamentals Part - 2|[view](/Fundamentals_Part-2/README.md)|
 <br>
 
 # Practice Section
