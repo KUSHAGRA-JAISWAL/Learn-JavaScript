@@ -26,8 +26,9 @@
 | Sno                                           | Topic's                                           | Programs                                           |Discription                             |Script's                            |Web's                                      |
 |:---------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|
 |**1**| Activating Strict Mode | **[strict_mode.html:](/Fundamentals_Part-2/strict_mode/strict_mode.html)**| Activating Strict Mode in JavaScript. |**[script.js](/Fundamentals_Part-2/strict_mode/script.js)**|[strict_mode](https://codepen.io/kushagra-jaiswal-the-bold/pen/wvZeboW)|
-|**2**| Introduction To Functions |**[functions_intro.html:](/Fundamentals_Part-2/functions/functions_intro/functions_intro.html)**| Activating Strict Mode in JavaScript. |**[script_intro.js](/Fundamentals_Part-2/functions/functions_intro/script_intro.js)**|[functions_intro](https://codepen.io/kushagra-jaiswal-the-bold/pen/GRLEbxO)|
-
+|**2**| Introduction To Functions |**[functions_intro.html:](/Fundamentals_Part-2/functions/functions_intro/functions_intro.html)**| Introduction To Functions in JavaScript. |**[script.js](/Fundamentals_Part-2/functions/functions_intro/script.js)**|[functions_intro](https://codepen.io/kushagra-jaiswal-the-bold/pen/GRLEbxO)|
+|**3**| Function Decleration Vs Expression |**[function_d_e.html:](/Fundamentals_Part-2/functions/function_decleration_expression/function_dec_exp.html)**| Function Decleration Vs Function Expression in JavaScript. |**[script.js](/Fundamentals_Part-2/functions/function_decleration_expression/script.js)**|[function_d_e_](https://codepen.io/kushagra-jaiswal-the-bold/pen/LYvjKMZ)|
+|**4**| Arrow Functions |**[arrow_functions.html:](/Fundamentals_Part-2/functions/arrow_functions/arrow_functions.html)**| Arrow Functions in JavaScript. |**[script.js](/Fundamentals_Part-2/functions/arrow_functions/script.js)**|[arrow_functions](https://codepen.io/kushagra-jaiswal-the-bold/pen/qBwXeZR)|
 <br>
 
 
