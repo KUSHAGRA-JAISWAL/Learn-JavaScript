@@ -1,13 +1,19 @@
  <img src="https://i.imgur.com/GeAoV5w.gif"  height=275px width=500px>
-<hr>
 
- ### javascript is a high-level, interpreted programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+ javascript is a high-level, interpreted programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-<hr>
+This repository is the collection of php Programs that has been done While Learning javascript as well as the collection of the program that were done while solving heavy Challenges. 
 
-#### This repository is a collection of JavaScript programs and projects that I have created while learning JavaScript. The repository is divided into two sections: Learning and Practice. The Learning section contains programs that I have created while learning JavaScript. The Practice section contains programs that I have created to practice JavaScript concepts and also to solve some challenges.
+<h2><b>NOTE<b>:- All the Notes are Included inside the Programs. </h2>
 
-<hr>
+This repo has divided into two main categories that covers:-
+
+1. <u>Learning Section</u>:- This section have all the php programs that will help you to understand all the Basic as well as Advance Concepts of bulding the structure of our website.<br>
+
+2. <u>Practice</u>:- This Section Contains programs that are challanging.<br>
+
+<!-- 3. <u>Projects</u>:- This Section Contains the Projects releated to php.<br> -->
+
 
 # Learning Section <img src="https://i.imgur.com/ARXvPUn.gif"  height=45px>
 
