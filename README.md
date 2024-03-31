@@ -55,7 +55,16 @@ This repo has divided into two main categories that covers:-
 | Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
 |:-----|-----------|------------|--------------|------------|--------|
 |**6**| Introduction To Arrays |**[arrays_intro.html:](/Fundamentals_Part-2/arrays/array_intro/arrays_intro.html)**| Introduction To Arrays in JavaScript. |**[script.js](/Fundamentals_Part-2/arrays/array_intro/script.js)**|[arrays_intro](https://codepen.io/kushagra-jaiswal-the-bold/pen/poBWGQP)|
-<br>
+|**7**| Basic Array Operations |**[arrays_op.html:](/Fundamentals_Part-2/arrays/basic_array_operations/array_op.html)**| Basic Array Operations in JavaScript. |**[script.js](/Fundamentals_Part-2/arrays/basic_array_operations/script.js)**|[arrays_op](https://codepen.io/kushagra-jaiswal-the-bold/pen/zYXPGON)|
+
+### Objects
+| Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
+|:-----|-----------|------------|--------------|------------|--------|
+|**8**| Introduction To Objects |**[obj_intro.html:](/Fundamentals_Part-2/objects/object_intro/obj_intro.html)**| Introduction To Objects in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/object_intro/script.js)**|[obj_intro](https://codepen.io/kushagra-jaiswal-the-bold/pen/NWmwqaq)|
+
+
+
+
 
 
 # Practice Section
@@ -76,5 +85,5 @@ This repo has divided into two main categories that covers:-
 | Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
 |:-----|-----------|------------|--------------|------------|--------|
 |**1**| Find Who Win Using Functions | **[fun_whoWin.html:](Practice/Fundamentals_part-2/Challange_Function_Who_Win/fun_whoWin.html)**| CHALLENGE #1 A team only wins if it has at least double the average score of the other team. Otherwise, no team wins! Your tasks: Create an arrow function calcAverage to calculate the average of 3 scores. This function should have three parameters and return a single number (the average score). |**[script.js](Practice/Fundamentals_part-2/Challange_Function_Who_Win/script.js)**|[fun_whoWin](https://codepen.io/kushagra-jaiswal-the-bold/full/bGJoYMa)|
-
+|**2**| CALCULATE THE TIP USING FUNCTION AND STORE IT IN ARRAY | **[array_tip_calc.html:](Practice/Fundamentals_part-2/challange_array_tip_calc/array_tip_calc.html)**| CHALLENGE #2 Write a function calcTip that takes any bill value as an input and returns the corresponding tip, calculated based on the rules above (you can check out the code from the first tip calculator challenge if you need to). Use the function type you like the most. Test the function using a bill value of 100.|**[script.js](Practice/Fundamentals_part-2/challange_array_tip_calc/script.js)**|[array_tip_calc](https://codepen.io/kushagra-jaiswal-the-bold/pen/dyLZoXK)|
 <br>
