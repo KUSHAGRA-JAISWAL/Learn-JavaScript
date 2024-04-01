@@ -61,10 +61,8 @@ This repo has divided into two main categories that covers:-
 | Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
 |:-----|-----------|------------|--------------|------------|--------|
 |**8**| Introduction To Objects |**[obj_intro.html:](/Fundamentals_Part-2/objects/object_intro/obj_intro.html)**| Introduction To Objects in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/object_intro/script.js)**|[obj_intro](https://codepen.io/kushagra-jaiswal-the-bold/pen/NWmwqaq)|
-
-
-
-
+|**9**| Dot Notation VS Bracket Notation |**[obj_intro.html:](/Fundamentals_Part-2/objects/dot_vs_bracket_notation/dot_bracket.html)**| Dot Notation VS Bracket Notation in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/dot_vs_bracket_notation/script.js)**|[dot_bracket](https://codepen.io/kushagra-jaiswal-the-bold/pen/JjVOOxP)|
+|**10**| Object Methods |**[obj_intro.html:](/Fundamentals_Part-2/objects/object_methods/object_methods.html)**| Object Methods in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/object_methods/script.js)**|[dot_bracket](https://codepen.io/kushagra-jaiswal-the-bold/pen/bGJYaRj)|
 
 
 # Practice Section
