@@ -64,6 +64,13 @@ This repo has divided into two main categories that covers:-
 |**9**| Dot Notation VS Bracket Notation |**[obj_intro.html:](/Fundamentals_Part-2/objects/dot_vs_bracket_notation/dot_bracket.html)**| Dot Notation VS Bracket Notation in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/dot_vs_bracket_notation/script.js)**|[dot_bracket](https://codepen.io/kushagra-jaiswal-the-bold/pen/JjVOOxP)|
 |**10**| Object Methods |**[objcet_methods.html:](/Fundamentals_Part-2/objects/object_methods/object_methods.html)**| Object Methods in JavaScript. |**[script.js](/Fundamentals_Part-2/objects/object_methods/script.js)**|[object_methods](https://codepen.io/kushagra-jaiswal-the-bold/pen/bGJYaRj)|
 
+### Iterations
+| Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
+|:-----|-----------|------------|--------------|------------|--------|
+|**9**| The For Loop |**[for_loop.html:](/Fundamentals_Part-2/iterations/for_loop/for_loop.html)**| The For Loop in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/for_loop/script.js)**|[for_loop](https://codepen.io/kushagra-jaiswal-the-bold/pen/qBwoJab)|
+|**10**| Looping Arrays, Breaking and Countinuing |**[looping_arrays.html:](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/looping_arrays.html)**| Looping Arrays, Breaking and Countinuing in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/script.js)**|[looping_arrays](https://codepen.io/kushagra-jaiswal-the-bold/pen/qBwoJab)|
+
+
 
 # Practice Section
 
