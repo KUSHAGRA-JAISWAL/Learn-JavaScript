@@ -67,10 +67,10 @@ This repo has divided into two main categories that covers:-
 ### Iterations
 | Sno  | Topic's   | Programs   |Discription   |Script's    |Web's   |
 |:-----|-----------|------------|--------------|------------|--------|
-|**9**| The For Loop |**[for_loop.html:](/Fundamentals_Part-2/iterations/for_loop/for_loop.html)**| The For Loop in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/for_loop/script.js)**|[for_loop](https://codepen.io/kushagra-jaiswal-the-bold/pen/qBwoJab)|
-|**10**| Looping Arrays, Breaking and Countinuing |**[looping_arrays.html:](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/looping_arrays.html)**| Looping Arrays, Breaking and Countinuing in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/script.js)**|[looping_arrays](https://codepen.io/kushagra-jaiswal-the-bold/pen/poBKEJb)|
-|**11**| Looping Backwords, Loops in Loops |**[looping_backwords.html:](/Fundamentals_Part-2/iterations/looping_backwords_loops_in_loops/looping_backwords.html)**| Looping Backwords, Loops in Loops in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/looping_backwords_loops_in_loops/script.js)**|[looping_backwords](https://codepen.io/kushagra-jaiswal-the-bold/pen/NWmzRXr)|
-|**12**| While Loop |**[while_loop.html:](/Fundamentals_Part-2/iterations/while_loop/while_loop.html)**| While Loop in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/while_loop/script.js)**|[while_loop](https://codepen.io/kushagra-jaiswal-the-bold/pen/JjVZRxx)|
+|**11**| The For Loop |**[for_loop.html:](/Fundamentals_Part-2/iterations/for_loop/for_loop.html)**| The For Loop in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/for_loop/script.js)**|[for_loop](https://codepen.io/kushagra-jaiswal-the-bold/pen/qBwoJab)|
+|**12**| Looping Arrays, Breaking and Countinuing |**[looping_arrays.html:](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/looping_arrays.html)**| Looping Arrays, Breaking and Countinuing in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/looping_arrays_breaking_countinuing/script.js)**|[looping_arrays](https://codepen.io/kushagra-jaiswal-the-bold/pen/poBKEJb)|
+|**13**| Looping Backwords, Loops in Loops |**[looping_backwords.html:](/Fundamentals_Part-2/iterations/looping_backwords_loops_in_loops/looping_backwords.html)**| Looping Backwords, Loops in Loops in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/looping_backwords_loops_in_loops/script.js)**|[looping_backwords](https://codepen.io/kushagra-jaiswal-the-bold/pen/NWmzRXr)|
+|**14**| While Loop |**[while_loop.html:](/Fundamentals_Part-2/iterations/while_loop/while_loop.html)**| While Loop in JavaScript. |**[script.js](/Fundamentals_Part-2/iterations/while_loop/script.js)**|[while_loop](https://codepen.io/kushagra-jaiswal-the-bold/pen/JjVZRxx)|
 
 # Practice Section
 
