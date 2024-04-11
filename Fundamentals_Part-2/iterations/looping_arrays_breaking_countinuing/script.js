@@ -42,3 +42,21 @@ for(let i = 0; i < years.length; i++){
 }
 
 console.log(ages);
+
+console.log('--- ONLY STRINGS ---');
+
+for(let i = 0; i < kushArray.length; i++){
+    if(typeof kushArray[i] !== 'string') continue;
+    // continue is used to skip the current iteration and move to the next iteration.
+
+    console.log(kushArray[i], typeof kushArray[i]);
+}
+
+console.log('--- BREAK IF NUMBER ---');
+
+for(let i = 0; i < kushArray.length; i++){
+    if(typeof kushArray[i] === 'number') break;
+    // break is used to break the loop if the condition is true.
+
+    console.log(kushArray[i], typeof kushArray[i]);
+}

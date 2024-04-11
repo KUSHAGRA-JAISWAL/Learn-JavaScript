@@ -1,0 +1,129 @@
+<!--
+* @file loop_tipCalc.html
+* @author KUSHAGRA JAISWAL 
+* @date 2024-04-11
+* @copyright Copyright (c) 2024
+-->
+
+<!-- 
+CHALLENGE #4
+Let's improve Steven's tip calculator even more, this time using loops!
+
+Your tasks:
+
+Create an array called bills containing all 10 test bill values.
+
+Create empty arrays for the tips and the totals (tips and totals)
+
+Use the calcTip function we wrote before (included in the starter code) 
+to calculate tips and total values (bill + tip) for every bill value in the bills array. 
+Use a for loop to perform the 10 calculations!
+
+TEST DATA: 22, 295, 176, 440, 37, 105, 10, 1100, 86, and 52.
+
+BONUS:
+
+Write a function calcAverage which takes an array called arr as an argument. 
+This function calculates the average of all numbers in the given array.
+This is a DIFFICULT challenge (we haven't done this before)! Here is how to solve it if you feel like it:
+
+First, you will need to add up all values in the array. 
+To do the addition, start by creating a variable sum that starts at 0. 
+Then loop over the array using a for loop. In each iteration, add the current value to the sum variable.
+ This way, by the end of the loop, you have all values added together.
+
+To calculate the average, divide the sum you calculated before by the length of the array 
+(because that's the number of elements).
+
+Call the function with the totals array.
+ -->
+
+ <!DOCTYPE html>
+ <html lang="en">
+ 
+ <head>
+     <meta charset="UTF-8" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+     <title>JavaScript Fundamentals(Practice) – Part 2</title>
+     <style>
+         body {
+             height: 100vh;
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+             align-items: center;
+             background: linear-gradient(to top left, #28b487, #7dd56f);
+         }
+ 
+         h1,h2{
+             font-family: sans-serif;
+             font-size: 50px;
+             line-height: 1.3;
+             width: 100%;
+             padding: 20px;
+             text-align: center;
+             color: white;
+         }
+ 
+         h3{
+             border: 2px solid black;
+             font-family: sans-serif;
+             font-size: 20px;
+             line-height: 1;
+             width: 70%;
+             padding: 20px;
+             text-align: left;
+             color: white;
+         }
+     </style>
+ 
+     <!-- <script>
+       // under the script tag we can write our JavaScript code.
+       // we can also link our JavaScript file here.
+ 
+       let js = 'amazing';
+ 
+       if (js == 'amazing') alert('JavaScript is FUN!');
+ 
+       console.log(1+2+5-3);
+     </script> -->
+ </head>
+ 
+ <body>
+     <h1>JavaScript Fundamentals(Practice) – Part 2</h1>
+     <h2>Challange#4 Calculate tip Using Loops and Arrays</h2>
+     <h3>CHALLENGE #4<br>
+        Let's improve Steven's tip calculator even more, this time using loops!<br>
+        <br>
+        Your tasks:<br>
+        <br>
+        Create an array called bills containing all 10 test bill values.<br>
+        <br>
+        Create empty arrays for the tips and the totals (tips and totals)<br>
+        <br>
+        Use the calcTip function we wrote before (included in the starter code) <br>
+        to calculate tips and total values (bill + tip) for every bill value in the bills array. <br>
+        Use a for loop to perform the 10 calculations!<br>
+        <br>
+        TEST DATA: 22, 295, 176, 440, 37, 105, 10, 1100, 86, and 52.<br>
+        <br>
+        BONUS:<br>
+        <br>
+        Write a function calcAverage which takes an array called arr as an argument. <br>
+        This function calculates the average of all numbers in the given array.<br>
+        This is a DIFFICULT challenge (we haven't done this before)! Here is how to solve it if you feel like it:<br>
+        <br>
+        First, you will need to add up all values in the array. <br>
+        To do the addition, start by creating a variable sum that starts at 0. <br>
+        Then loop over the array using a for loop. In each iteration, add the current value to the sum variable.<br>
+        This way, by the end of the loop, you have all values added together.<br>
+        <br>
+        To calculate the average, divide the sum you calculated before by the length of the array <br>
+        (because that's the number of elements).<br>
+        <br>
+        Call the function with the totals array. </h3>
+     <script src="script.js"></script>
+ </body>
+ 
+ </html>
