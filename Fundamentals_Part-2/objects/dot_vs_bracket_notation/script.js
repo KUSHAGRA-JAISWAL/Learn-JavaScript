@@ -29,7 +29,7 @@ const kushObject = {
     lastName: 'Jaiswal',
     age: 2024 - 2002,
     job: 'student',
-    friends: ['HRV', 'MOHAN', 'GAURAV']
+    friends: ['HRV', 'MOHAN', 'GAURAV', 'FARAZ']
 };
 
 console.log(kushObject.firstName);
